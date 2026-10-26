@@ -1,0 +1,10 @@
+Sons du cirque (cours 8, 420-526-RI)
+Préparés pour le jeu : extraits, en mono pour les sons 3D, volumes égalisés, boucles sans coupure.
+Sources : Sonniss #GameAudioGDC 2026 (usage interne) ; musique du carrousel composée pour le cours.
+
+Fichier	Durée	Canaux	Usage	Source
+SFX_Loop_Crowd.ogg	50 s	stéréo	foule de la fête, partout en 2D (groupe Ambiance)	Sonik Sound Library, Spanish Wallas (Crowd, Dense Group of Adults, Exterior)
+SFX_Loop_Kids.ogg	35 s	mono	rires d'enfants, en 3D près des kiosques de jeux (groupe Ambiance)	Epic Stock Media, Public Spaces - Crowds Walla (Children Playing Laughing Playground)
+SFX_Loop_Birds.ogg	49 s	mono	oiseaux, en 3D dans les arbres (groupe Ambiance)	344 Audio, East Coast America Vol. 1 (Forest Crickets, Birds)
+SFX_Loop_Carousel.ogg	38,4 s	mono	valse du carrousel, en 3D sur le carrousel (groupe Ambiance)	Composée pour le cours à partir de notes de Sonic Bat, Music Boxes
+SFX_Fireworks.ogg	12 s	stéréo	feux d'artifice, une fois au début de la partie, en 2D (groupe SFX)	Sonic Bat, Fireworks Ambience (Fireworks 001)
